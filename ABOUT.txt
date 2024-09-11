@@ -1,0 +1,2 @@
+This file contains information about the project
+Its helps us to learn about all the branches and how it helps 
