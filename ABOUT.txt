@@ -1,4 +1,3 @@
 This file contains information about the project
 Its helps us to learn about all the branches and how it helps 
-And they help us to gjhhi
-yes today
+And they help us to really understand git commands and its branches 
